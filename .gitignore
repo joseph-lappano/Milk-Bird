@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# PyCharm / JetBrains IDEs
+.idea/
+*.iml
+
+# Python cache
+__pycache__/
