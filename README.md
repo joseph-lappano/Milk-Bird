@@ -18,5 +18,5 @@ Controls:
 
 # How to Run
 '''bash
-pip install -r requirements.txt
-\npython src/main.py
+pip install -r requirements.txt  
+python src/main.py
